@@ -12,4 +12,6 @@ Eläkeläistodisteen SVG-mallineet löytyvät hakemistosta [templates/svg](templ
 
 ## Esimerkit
 
-Esimerkki eläkeläistodisteesta JWT-muodossa löytyy tiedostosta [examples/sd-jwt-vc/pensioncredential.jwt]. Sen sisältöä voi tarkastella esimerkiksi palvelussa [jwt.io](https://jwt.io).
+Esimerkki eläkeläistodisteesta JWT-muodossa löytyy tiedostosta [examples/sd-jwt-vc/pensioncredential.jwt](examples/sd-jwt-vc/pensioncredential.jwt). Sen sisältöä voi tarkastella esimerkiksi palvelussa [jwt.io](https://jwt.io).
+
+Esimerkki todisteen myöntäjän `issuer metadata` -asetuksista löytyy tiedostosta [examples/openid-credential-issuer.json](examples/openid-credential-issuer.json).
