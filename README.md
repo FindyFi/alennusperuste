@@ -8,7 +8,7 @@ Eläkeläistodisteen `vct`-määritys löytyy tiedostosta [credentials/v1/Pensio
 
 ## Ulkoasumääritykset
 
-Eläkeläistodisteen SVG-mallineet löytyy tiedostosta [templates/svg/PensionCredential_v1_fi.svg](templates/svg/PensionCredential_v1_fi.svg). (Kieliversiot [PensionCredential_v1_en.svg](templates/svg/PensionCredential_v1_en.svg) ja [PensionCredential_v1_sv.svg](templates/svg/PensionCredential_v1_sv.svg).)
+Eläkeläistodisteen SVG-malline löytyy tiedostosta [templates/svg/PensionCredential_v1_fi.svg](templates/svg/PensionCredential_v1_fi.svg). (Kieliversiot [PensionCredential_v1_en.svg](templates/svg/PensionCredential_v1_en.svg) ja [PensionCredential_v1_sv.svg](templates/svg/PensionCredential_v1_sv.svg).)
 
 ## Esimerkit
 
