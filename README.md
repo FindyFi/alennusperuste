@@ -4,11 +4,11 @@ Täältä löytyvät Findynetin tukeman erityisryhmien alennusperusteiden luotta
 
 ## Todisteiden rakenne
 
-Eläkeläistodisteen `vct`-määritys löytyy tiedostosta [credentials/v1/PensionCredentialVCT.json](credentials/v1/PensionCredentialVCT.json).
+Eläkeläistodisteen `vct`-määritys löytyy tiedostosta [credentials/v2/PensionCredentialVCT.json](credentials/v2/PensionCredentialVCT.json).
 
 ## Ulkoasumääritykset
 
-Eläkeläistodisteen SVG-malline löytyy tiedostosta [templates/svg/PensionCredential_v1_fi.svg](templates/svg/PensionCredential_v1_fi.svg). (Kieliversiot [PensionCredential_v1_en.svg](templates/svg/PensionCredential_v1_en.svg) ja [PensionCredential_v1_sv.svg](templates/svg/PensionCredential_v1_sv.svg).)
+Eläkeläistodisteen SVG-malline löytyy tiedostosta [templates/svg/PensionCredential_v2_fi.svg](templates/svg/PensionCredential_v2_fi.svg). (Kieliversiot [PensionCredential_v2_en.svg](templates/svg/PensionCredential_v2_en.svg) ja [PensionCredential_v2_sv.svg](templates/svg/PensionCredential_v2_sv.svg).)
 
 ## Esimerkit
 
