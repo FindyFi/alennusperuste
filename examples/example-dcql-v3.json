@@ -1,0 +1,39 @@
+{
+  "credentials": [
+    {
+      "id": "elaketodiste",
+      "format": "dc+sd-jwt",
+      "meta": {
+        "vct_values": [
+          "https://alennusperuste.todiste.fi/credentials/v3/PensionCredential"
+        ]
+      },
+      "claims": [
+        {
+          "path": [
+            "Hetu"
+          ]
+        },
+        {
+          "path": [
+            "Voimassa"
+          ]
+        },
+        {
+          "path": [
+            "Muodostettu"
+          ]
+        }
+      ],
+      "trusted_authorities": [
+        {
+          "type": "openid_federation",
+          "values": [
+            "https://findy.trustregistry.eu"
+          ]
+        }
+      ],
+      "require_cryptographic_holder_binding": false
+    }
+  ]
+}
